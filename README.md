@@ -1,15 +1,13 @@
-# Pangeo Stack Plugin for The Littlest JupyterHub
+# R Stack Plugin for The Littlest JupyterHub
 
 A plugin for [The Littlest JupyterHub](https://z2jh.jupyter.org)
-that installs the [pangeo stack](http://pangeo-data.org/packages.html).
+that installs R
 
 
 ## Installed software
 
 Packages installed:
 
-1. xarray
-2. iris
-3. dask
+1. r
 
 These are installed from conda-forge.
