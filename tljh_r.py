@@ -7,4 +7,6 @@ def tljh_extra_user_conda_packages():
     return [
         'r',
         'r-irkernel',
+        'r-bh',
+        'r-ggplot2',
     ]
