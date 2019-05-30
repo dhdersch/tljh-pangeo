@@ -171,4 +171,5 @@ def tljh_extra_user_conda_packages():
         "r-zoo",
         "r-tcltk2",
         "r-r.utils",
+        "r-aws.s3"
     ]
